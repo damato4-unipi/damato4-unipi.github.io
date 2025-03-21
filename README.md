@@ -1,7 +1,7 @@
 **CREARE SITI GITHUB DA REMOTO**:
 
 - echo "Testo da mettere nel sito" > blabla.html
-git innit
+git init
 git add blabla.html
 git commit -m "Messaggio commento"
 git push 
